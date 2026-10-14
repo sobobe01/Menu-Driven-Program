@@ -1,0 +1,52 @@
+
+    Health Club Membership Menu
+
+  1. Standard Adult  $40.00 / month
+  2. Child           $20.00 / month
+  3. Senior Citizen  $30.00 / month
+  4. Quit
+
+Enter your choice: Please enter a whole number from 1 to 4.
+Enter your choice: Please enter a whole number from 1 to 4.
+Enter your choice: Please enter a whole number from 1 to 4.
+Enter your choice: For how many months? Please enter a whole number from 1 to 120.
+For how many months? Please enter a whole number from 1 to 120.
+For how many months? 
+  Membership type : Standard Adult
+  Number of months: 12
+  Total charges   : $480.00
+
+    Health Club Membership Menu
+
+  1. Standard Adult  $40.00 / month
+  2. Child           $20.00 / month
+  3. Senior Citizen  $30.00 / month
+  4. Quit
+
+Enter your choice: For how many months? 
+  Membership type : Child
+  Number of months: 1
+  Total charges   : $20.00
+
+    Health Club Membership Menu
+
+  1. Standard Adult  $40.00 / month
+  2. Child           $20.00 / month
+  3. Senior Citizen  $30.00 / month
+  4. Quit
+
+Enter your choice: Please enter a whole number from 1 to 4.
+Enter your choice: For how many months? 
+  Membership type : Senior Citizen
+  Number of months: 120
+  Total charges   : $3600.00
+
+    Health Club Membership Menu
+
+  1. Standard Adult  $40.00 / month
+  2. Child           $20.00 / month
+  3. Senior Citizen  $30.00 / month
+  4. Quit
+
+Enter your choice: 
+Goodbye!

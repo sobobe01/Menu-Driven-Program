@@ -11,9 +11,9 @@
 		  "-std=c++17",
 		  "-stdlib=libc++",
 		  "-g",
-		  "${file}",
+		  "${workspaceFolder}/main.cpp",
 		  "-o",
-		  "${fileDirname}/${fileBasenameNoExtension}"
+		  "${workspaceFolder}/membership"
 		],
 		"options": {
 		  "cwd": "${workspaceFolder}"
